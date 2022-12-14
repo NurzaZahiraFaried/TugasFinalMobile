@@ -41,5 +41,6 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="16dp"
-        android:text="Simpan" />
+        android:text="Simpan"
+        android:backgroundTint="@color/indigo_400"/>
 </LinearLayout>

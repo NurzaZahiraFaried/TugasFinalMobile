@@ -23,7 +23,7 @@
         android:clickable="true"
         android:focusable="true"
         app:tint="@color/white"
-        
+        android:backgroundTint="@color/indigo_400"
         android:src="@drawable/ic_add"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"/>
